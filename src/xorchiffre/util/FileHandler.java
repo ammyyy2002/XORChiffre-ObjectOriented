@@ -1,5 +1,5 @@
-package amyivan.xorchiffre.util;
-import amyivan.xorchiffre.util.enums.TransformMode;
+package xorchiffre.util;
+import xorchiffre.util.enums.TransformMode;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
