@@ -1,4 +1,4 @@
-package amyivan.xorchiffre.util;
+package xorchiffre.util;
 
 import java.util.Arrays;
 import java.util.Scanner;

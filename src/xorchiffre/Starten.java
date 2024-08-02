@@ -1,7 +1,7 @@
-package amyivan.xorchiffre;
+package xorchiffre;
 
-import amyivan.xorchiffre.util.UserInterface;
-import amyivan.xorchiffre.util.enums.TransformMode;
+import xorchiffre.util.UserInterface;
+import xorchiffre.util.enums.TransformMode;
 
 /**
  * Beinhaltet komplette Logik.
@@ -15,7 +15,7 @@ public class Starten {
 
         Chiffrierer xorChiffre = new Chiffrierer(3, 3877, 29573, 139968);
         //xorChiffre.ausfuehren(askKlartext(), askGeheimtext(), askTransformMode());
-        xorChiffre.ausfuehren("res/Gedicht.txt", "res/Geheimtext.txt", TransformMode.DECHIFFRIEREN);
+        xorChiffre.ausfuehren("res/Gedicht.txt", "res/Geheimtext.txt", TransformMode.CHIFFRIEREN);
 
     }
 

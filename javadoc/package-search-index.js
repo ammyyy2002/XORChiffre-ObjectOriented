@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"Alle Packages","u":"allpackages-index.html"},{"l":"amyivan.xorchiffre"},{"l":"amyivan.xorchiffre.util"},{"l":"amyivan.xorchiffre.util.enums"}];updateSearchResults();
+packageSearchIndex = [{"l":"Alle Packages","u":"allpackages-index.html"},{"l":"xorchiffre"},{"l":"xorchiffre.util"},{"l":"xorchiffre.util.enums"}];updateSearchResults();
