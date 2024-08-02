@@ -1,7 +1,7 @@
-package amyivan.xorchiffre;
+package xorchiffre;
 
-import amyivan.xorchiffre.util.UserInterface;
-import amyivan.xorchiffre.util.enums.TransformMode;
+import xorchiffre.util.UserInterface;
+import xorchiffre.util.enums.TransformMode;
 
 /**
  * Beinhaltet komplette Logik.
