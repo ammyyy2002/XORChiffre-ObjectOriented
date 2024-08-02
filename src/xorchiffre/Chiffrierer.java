@@ -1,7 +1,7 @@
-package amyivan.xorchiffre;
+package xorchiffre;
 
-import amyivan.xorchiffre.util.FileHandler;
-import amyivan.xorchiffre.util.enums.TransformMode;
+import xorchiffre.util.FileHandler;
+import xorchiffre.util.enums.TransformMode;
 import java.nio.charset.StandardCharsets;
 
 /** Enthaelt Chiffrierungslogik.
