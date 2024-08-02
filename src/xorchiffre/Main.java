@@ -1,4 +1,4 @@
-package amyivan.xorchiffre;
+package xorchiffre;
 
 public class Main {
     public static void main(String[] args) {
