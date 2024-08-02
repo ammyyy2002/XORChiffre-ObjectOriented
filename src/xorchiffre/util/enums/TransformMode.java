@@ -1,4 +1,4 @@
-package amyivan.xorchiffre.util.enums;
+package xorchiffre.util.enums;
 
 /**
  * Garantiert Eindeutigkeit der Eingabe durch Einschraenkung der moeglichen Variablenwerte.
